@@ -104,7 +104,7 @@ The system generates 24 forecast records at one-hour intervals. The forecasted v
 - 24-hour forecasting visualization.
 - Upper and lower forecasting bounds.
 - Latest sensor data timestamp.
-- System status indicator (ONLINE, WARNING, and OFFLINE).
+- System status indicator (ONLINE, OFFLINE).
 
 ## 8. Repository Contents
 
@@ -125,8 +125,8 @@ The system generates 24 forecast records at one-hour intervals. The forecasted v
 
 ## 10. Project Links
 
-- Google Sheets: INSERT_GOOGLE_SHEETS_LINK
-- Looker Studio Dashboard: INSERT_LOOKER_STUDIO_LINK
+- Google Sheets: https://docs.google.com/spreadsheets/d/1EITiNYhvSup5A7L_W4hoiLt6WkYmj4RjyEu4q1eRsPY/edit?usp=sharing)
+- Looker Studio Dashboard: https://datastudio.google.com/reporting/6ab1984a-6183-4295-b73e-ad4fde5a848c)
 
 ## 11. Conclusion
 
