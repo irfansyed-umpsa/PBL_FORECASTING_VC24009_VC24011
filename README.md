@@ -1,4 +1,14 @@
-# IoT Temperature and Humidity Monitoring and Forecasting System
+# BVI3114 - Technology System Optimization II
+
+## PBL: IoT Sensor Data Forecasting System
+
+Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA)
+
+*Group Members:*
+- SYED MUHAMMAD IRFAN BIN SYED ABD RAZIB (VC24009)
+- MOHAMAD MUHYIDDIN BIN HASHIM (VC24011)
+
+*Lecturer:* Sir Mohd Zamri Bin Ibrahim
 
 ## 1. Project Overview
 
